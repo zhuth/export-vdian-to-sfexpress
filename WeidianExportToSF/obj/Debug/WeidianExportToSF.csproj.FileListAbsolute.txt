@@ -1,0 +1,15 @@
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\WeidianExportToSF.exe.config
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\WeidianExportToSF.exe
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\WeidianExportToSF.pdb
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\ICSharpCode.SharpZipLib.dll
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\NPOI.dll
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\NPOI.OOXML.dll
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\NPOI.OpenXml4Net.dll
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\NPOI.OpenXmlFormats.dll
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\bin\Debug\NPOI.xml
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\obj\Debug\WeidianExportToSF.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\obj\Debug\WeidianExportToSF.Form1.resources
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\obj\Debug\WeidianExportToSF.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\obj\Debug\WeidianExportToSF.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\obj\Debug\WeidianExportToSF.exe
+d:\documents\visual studio 2015\Projects\WeidianExportToSF\WeidianExportToSF\obj\Debug\WeidianExportToSF.pdb
